@@ -1,7 +1,13 @@
 # awesome-pedal
 List of awesome stuff related to guitar pedals
 
-## PCB
+## Forums
+
+* [freestompboxes.org](https://www.freestompboxes.org/) - A great resource for all things DIY PCB. More DIY than pre-made PCBs.
+* [PedalPCB](https://forum.pedalpcb.com/) - Good community, not just focused on PedalPCB. More towards pre-made PCBs.
+* [Madbean](https://www.madbeanpedals.com/forum/index.php) - Another good community, smaller than PedalPCB.
+
+## PCBs DIY
 ### Boost
 * [Texel](https://github.com/szukalski/pedal-texel) - An original boost design by Chuck D. Bones at the PedalPCB forums.
 ### Distortion/Overdrive
