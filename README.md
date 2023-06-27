@@ -3,7 +3,7 @@ List of awesome stuff related to guitar pedals
 
 ## Forums
 
-* [freestompboxes.org](https://www.freestompboxes.org/) - A great resource for all things DIY PCB. More DIY than pre-made PCBs.
+* [freestompboxes](https://www.freestompboxes.org/) - A great resource for all things DIY PCB. More DIY than pre-made PCBs.
 * [PedalPCB](https://forum.pedalpcb.com/) - Good community, not just focused on PedalPCB. More towards pre-made PCBs.
 * [Madbean](https://www.madbeanpedals.com/forum/index.php) - Another good community, smaller than PedalPCB.
 
