@@ -23,3 +23,6 @@ List of awesome stuff related to guitar pedals
 ### Footswitch
 * [3PDT](https://github.com/szukalski/pedal-3pdt) - 3PDT breakout boards with LED and CLR.
 * [Simple Relay](https://github.com/szukalski/pedal-simple-relay) - Simple relay designs based on the simple relay design by Chuck D. Bones at the PedalPCB forums.
+
+## Tools
+* [Sheepylove DipTrace Library](https://github.com/szukalski/sheepylove-diptrace) - My personal library.
