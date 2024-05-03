@@ -13,11 +13,10 @@ List of awesome stuff related to guitar pedals
 * [Dunning Kruger FX](https://dunningkrugerfx.com/) - Lots of pedal and instrument builds paired with some writing that is enough to keep you interested on its own.
 
 ## PCBs DIY
+### dylan159
+* [pedal-dylan159](https://github.com/szukalski/pedal-dylan159) - Layouts I have made for dylan159 designs
 ### Boost
 * [Texel](https://github.com/szukalski/pedal-texel) - An original boost design by Chuck D. Bones at the PedalPCB forums.
-### Distortion/Overdrive
-* [Blue Sheep](https://github.com/szukalski/pedal-bluesheep) - Based on the Blue Pilot, an integrated Blues Driver by dylan159 at [FSB](https://www.freestompboxes.org/viewtopic.php?t=31625).
-* [Sarda](https://github.com/szukalski/pedal-sarda/tree/main) - Based on the Clown Centurion, a Klon sound-alike by dylan159 at [FSB](https://www.freestompboxes.org/viewtopic.php?t=31222).
 ### Fuzz
 * [FigBuster](https://github.com/szukalski/pedal-figbuster) - Based on the Clusterfuzz, a tribute to the great Fig at the PedalPCB forums. Go build something!
 ### Footswitch
